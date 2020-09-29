@@ -82,4 +82,10 @@ if ($errors == 10) {
     <a href="index.php">neues Spiel starten</a>
 <?php }
 
+?>
+    <br>
+    <br>
+    <a href="https://github.com/sba/hangman" target="_blank">Programmcode auf Github</a>
+<?php
+
 include "footer.php";
